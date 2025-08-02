@@ -4,23 +4,23 @@ A **modern and playful redesign** of the Mad Over Donuts (MOD) homepage, featuri
 
 ---
 
-## ✨ Features
+## Features
 
-* 🎨 **Modern UI Design** – Pink, candy-inspired theme with playful elements.
-* 🍩 **Variety Highlight** – Colorful floating donuts showcasing multiple flavors.
-* ⭐ **Specials Section** – Trending products like KitKat donuts and Boba drinks.
-* 🖱 **Clean Navigation** – Simple menu for easy and intuitive browsing.
-* 📱 **Responsive Design** – Optimized for a seamless experience across devices.
+* **Modern UI Design** – Pink, candy-inspired theme with playful elements.
+* **Variety Highlight** – Colorful floating donuts showcasing multiple flavors.
+* **Specials Section** – Trending products like KitKat donuts and Boba drinks.
+* **Clean Navigation** – Simple menu for easy and intuitive browsing.
+* **Responsive Design** – Optimized for a seamless experience across devices.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **Design Tool:** Figma / Canva
 
 ---
 
-## 🚀 Project Outcome
+## Project Outcome
 
 The redesigned homepage **captures the fun and sweet essence of Mad Over Donuts**, making it:
 
@@ -30,7 +30,7 @@ The redesigned homepage **captures the fun and sweet essence of Mad Over Donuts*
 
 ---
 
-## 📬 Contact
+## Contact
 
 For any queries or collaborations:
 **Ayesha Unnisa** – \[ayeshaunnisa0426@gmail.com]
